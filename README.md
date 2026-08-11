@@ -1,6 +1,6 @@
 # ⏰ TimeChime
 
-**Every Moment Matters.**
+### Every Moment Matters.
 
 TimeChime is a lightweight Android productivity companion that helps you stay aware of time throughout the day through customizable chimes and spoken time announcements.
 
@@ -10,19 +10,19 @@ Whether you're working, studying, taking breaks, or maintaining a daily routine,
 
 ## ✨ Features
 
-* ⏰ Custom time announcements
-* 🕐 Hourly chime
-* ⏱️ Custom hourly time ranges
-* 🌙 Focus Time / Quiet Hours
-* 📅 Custom repeat days
-* 🗣️ Text-to-Speech voice announcements
-* 🎙️ Dynamic system voice selection
-* 🔊 Built-in chime collection
-* 🎵 Custom notification sounds
-* 🎨 Multiple themes
-* 📱 Responsive Android interface
-* 🔔 Customizable announcement sounds
-* ⚡ Precise scheduled announcements
+- ⏰ Custom time announcements
+- 🕐 Hourly chime
+- 🗣️ Spoken time announcements
+- 🎙️ Multiple system voice options
+- 🔊 Built-in chime collection
+- 🎵 Custom notification sounds
+- 📅 Custom repeat days
+- 🌙 Focus Time / Quiet Hours
+- ⏱️ Custom hourly time ranges
+- 🎨 Multiple themes
+- 📱 Responsive interface
+- 🔔 Customizable announcement sounds
+- ⚡ Precise scheduled announcements
 
 ---
 
@@ -30,14 +30,14 @@ Whether you're working, studying, taking breaks, or maintaining a daily routine,
 
 TimeChime can be useful for:
 
-* Productivity
-* Studying
-* Work routines
-* Break reminders
-* Time awareness
-* Daily routines
-* Focus sessions
-* Sleep and wake schedules
+- Productivity
+- Studying
+- Work routines
+- Break reminders
+- Time awareness
+- Daily routines
+- Focus sessions
+- Healthy routines
 
 ---
 
@@ -61,7 +61,19 @@ For example:
 
 TimeChime will announce the time hourly during that period and remain silent afterward.
 
-Focus Time can also be configured to temporarily silence announcements during selected periods.
+You can also configure **Focus Time** to temporarily silence announcements during selected periods.
+
+---
+
+## 🔊 Voice & Sounds
+
+TimeChime uses the Android Text-to-Speech system for spoken announcements.
+
+Available voices depend on the voices installed on the user's Android device.
+
+Users can preview and select available system voices.
+
+TimeChime also provides built-in chime tones and supports custom notification sounds.
 
 ---
 
@@ -69,34 +81,22 @@ Focus Time can also be configured to temporarily silence announcements during se
 
 TimeChime includes multiple visual themes designed to provide a comfortable and calming experience.
 
-The application supports both light and dark appearances along with additional gradient-based themes.
-
----
-
-## 🔊 Voice & Sounds
-
-TimeChime uses Android's Text-to-Speech system for spoken announcements.
-
-Available voices depend on the voices installed on the user's Android device.
-
-Users can preview and select available system voices.
-
-TimeChime also supports built-in chime tones and custom notification sounds.
+The application supports light and dark appearances along with additional gradient-based themes.
 
 ---
 
 ## 📱 Screenshots
 
-Screenshots will be added here.
+Screenshots will be added in a future update.
 
 ---
 
 ## 🛠️ Requirements
 
-* Android Studio
-* Android SDK
-* Android device or emulator
-* Android 12 or newer recommended
+- Android Studio
+- Android SDK
+- Android device or emulator
+- Android 12 or newer recommended
 
 ---
 
