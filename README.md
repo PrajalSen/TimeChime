@@ -1,22 +1,115 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ⏰ TimeChime
 
-# Run and deploy your AI Studio app
+**Every Moment Matters.**
 
-This contains everything you need to run your app locally.
+TimeChime is a lightweight Android productivity companion that helps you stay aware of time throughout the day through customizable chimes and spoken time announcements.
 
-View your app in AI Studio: https://ai.studio/apps/49160bcc-dc22-4ede-a3ae-f773a46d55d7
+Whether you're working, studying, taking breaks, or maintaining a daily routine, TimeChime provides simple and calming time announcements without behaving like a traditional alarm.
 
-## Run Locally
+---
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+## ✨ Features
 
+* ⏰ Custom time announcements
+* 🕐 Hourly chime
+* ⏱️ Custom hourly time ranges
+* 🌙 Focus Time / Quiet Hours
+* 📅 Custom repeat days
+* 🗣️ Text-to-Speech voice announcements
+* 🎙️ Dynamic system voice selection
+* 🔊 Built-in chime collection
+* 🎵 Custom notification sounds
+* 🎨 Multiple themes
+* 📱 Responsive Android interface
+* 🔔 Customizable announcement sounds
+* ⚡ Precise scheduled announcements
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
-7. If you have already published your app in AI Studio, please [request upload key reset](https://support.google.com/googleplay/android-developer/answer/9842756#zippy=%2Crequest-an-upload-key-reset) in Google Play Console.
+---
+
+## 🎯 Use Cases
+
+TimeChime can be useful for:
+
+* Productivity
+* Studying
+* Work routines
+* Break reminders
+* Time awareness
+* Daily routines
+* Focus sessions
+* Sleep and wake schedules
+
+---
+
+## 🕐 How It Works
+
+Create an announcement for the time you want.
+
+For example:
+
+**2:00 PM**
+
+TimeChime can play your selected chime and announce:
+
+> "It is 2 PM."
+
+You can also configure TimeChime to announce the time every hour within a specific period.
+
+For example:
+
+**2:00 PM → 10:00 PM**
+
+TimeChime will announce the time hourly during that period and remain silent afterward.
+
+Focus Time can also be configured to temporarily silence announcements during selected periods.
+
+---
+
+## 🎨 Themes
+
+TimeChime includes multiple visual themes designed to provide a comfortable and calming experience.
+
+The application supports both light and dark appearances along with additional gradient-based themes.
+
+---
+
+## 🔊 Voice & Sounds
+
+TimeChime uses Android's Text-to-Speech system for spoken announcements.
+
+Available voices depend on the voices installed on the user's Android device.
+
+Users can preview and select available system voices.
+
+TimeChime also supports built-in chime tones and custom notification sounds.
+
+---
+
+## 📱 Screenshots
+
+Screenshots will be added here.
+
+---
+
+## 🛠️ Requirements
+
+* Android Studio
+* Android SDK
+* Android device or emulator
+* Android 12 or newer recommended
+
+---
+
+## 🚀 Version
+
+**TimeChime v1.0.0**
+
+This repository represents the initial stable release of TimeChime.
+
+---
+
+## ❤️
+
+Crafted with ❤️ to make every moment count.
+
+Thank you for choosing TimeChime.
