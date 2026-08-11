@@ -85,10 +85,15 @@ The application supports light and dark appearances along with additional gradie
 
 ---
 
-## 📱 Screenshots
+## 📱 App Preview
 
-Screenshots will be added in a future update.
+### 🏠 Home Dashboard
 
+<p align="center">
+  <img src="screenshots/home.png" width="300" alt="TimeChime Home Dashboard">
+</p>
+
+The TimeChime dashboard provides a quick overview of your upcoming chime, active schedules, today's announcements, and easy access to your schedule and settings.
 ---
 
 ## 🛠️ Requirements
