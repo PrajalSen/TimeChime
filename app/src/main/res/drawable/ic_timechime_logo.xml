@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Circular Badge Background -->
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M54,0 C83.82,0 108,24.18 108,54 C108,83.82 83.82,108 54,108 C24.18,108 0,83.82 0,54 C0,24.18 24.18,0 54,0 Z" />
+    <!-- Bell dome -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M54,24 C43,24 35,32 35,43 L35,57 L31,61 C30,62 30.5,64 32,64 L76,64 C77.5,64 78,62 77,61 L73,57 L73,43 C73,32 65,24 54,24 Z" />
+    <!-- Bell clapper -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,70 C57.3,70 60,67.3 60,64 L48,64 C48,67.3 50.7,70 54,70 Z" />
+    <!-- Clock dial ring inside bell -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,36 C48.5,36 44,40.5 44,46 C44,51.5 48.5,56 54,56 C59.5,56 64,51.5 64,46 C64,40.5 59.5,36 54,36 Z M54,54 C49.6,54 46,50.4 46,46 C46,41.6 49.6,38 54,38 C58.4,38 62,41.6 62,46 C62,50.4 58.4,54 54,54 Z" />
+    <!-- Clock hands at 10:10 -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M53.2,40 L53.2,46.2 L48.5,43.5 L47.5,45.2 L53.8,48.8 L55,48.8 L55,40 Z" />
+    <!-- Left Chime Wave 1 -->
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M24,39 C21.5,43.5 21.5,48.5 24,53 L26.2,51.7 C24.2,47.8 24.2,44.2 26.2,40.3 Z" />
+    <!-- Left Chime Wave 2 -->
+    <path
+        android:fillColor="#C084FC"
+        android:pathData="M18,34 C14.5,41 14.5,51 18,58 L20.3,56.6 C17.3,50.3 17.3,41.7 20.3,35.4 Z" />
+    <!-- Right Chime Wave 1 -->
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M84,39 C86.5,43.5 86.5,48.5 84,53 L81.8,51.7 C83.8,47.8 83.8,44.2 81.8,40.3 Z" />
+    <!-- Right Chime Wave 2 -->
+    <path
+        android:fillColor="#C084FC"
+        android:pathData="M90,34 C93.5,41 93.5,51 90,58 L87.7,56.6 C90.7,50.3 90.7,41.7 87.7,35.4 Z" />
+</vector>

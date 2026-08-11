@@ -1,0 +1,6 @@
+{
+  "name": "TimeChime",
+  "description": "Lightweight productivity app that announces current time at scheduled intervals with custom bell chime and Text-To-Speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
