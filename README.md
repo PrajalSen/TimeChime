@@ -1,3 +1,21 @@
+<!-- ========================= HEADER ========================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F6BED,100:8B5CF6&height=180&section=header&text=TimeChime&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Every%20Moment%20Matters.&descAlignY=62&descSize=18" width="100%" alt="TimeChime Header">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=4F6BED&center=true&vCenter=true&width=700&lines=Smart+Time+Announcements+%E2%8F%B0;Stay+Aware+of+Time+%F0%9F%94%94;Custom+Chimes+%26+Voice+Announcements+%F0%9F%97%A3%EF%B8%8F;Focus+Time+%26+Quiet+Hours+%F0%9F%8C%99;Designed+for+Productivity+%26+Better+Routines+%F0%9F%9A%80" alt="TimeChime animated description">
+
+<br>
+
+<img src="https://img.shields.io/badge/Version-1.0.0-4F6BED?style=for-the-badge" alt="Version">
+<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/Status-Stable-22C55E?style=for-the-badge" alt="Status">
+
+</div>
+
+---
+
 # ⏰ TimeChime
 
 ### Every Moment Matters.
@@ -8,7 +26,21 @@ Whether you're working, studying, taking breaks, or maintaining a daily routine,
 
 ---
 
+<!-- ========================= FEATURES ========================= -->
+
 ## ✨ Features
+
+<div align="center">
+
+| ⏰ Time | 🔊 Audio | 🎯 Focus |
+|:---:|:---:|:---:|
+| Custom time announcements | Built-in chime collection | Focus Time / Quiet Hours |
+| Hourly chime | Custom notification sounds | Custom hourly ranges |
+| Precise scheduled announcements | Multiple system voice options | Custom repeat days |
+
+</div>
+
+### More Features
 
 - ⏰ Custom time announcements
 - 🕐 Hourly chime
@@ -24,22 +56,25 @@ Whether you're working, studying, taking breaks, or maintaining a daily routine,
 - 🔔 Customizable announcement sounds
 - ⚡ Precise scheduled announcements
 - 🌙 Clean and simple interface
+
 ---
 
 ## 🎯 Use Cases
 
 TimeChime can be useful for:
 
-- Productivity
-- Studying
-- Work routines
-- Break reminders
-- Time awareness
-- Daily routines
-- Focus sessions
-- Healthy routines
+- 💼 Productivity
+- 📚 Studying
+- 🖥️ Work routines
+- ☕ Break reminders
+- ⏰ Time awareness
+- 📅 Daily routines
+- 🎯 Focus sessions
+- ❤️ Healthy routines
 
 ---
+
+<!-- ========================= HOW IT WORKS ========================= -->
 
 ## 🕐 How It Works
 
@@ -47,74 +82,24 @@ Create an announcement for the time you want.
 
 For example:
 
-**2:00 PM**
+<div align="center">
 
-TimeChime can play your selected chime and announce:
+### `02:00 PM`
 
-> "It is 2 PM."
+⬇️
+
+🔔 **Chime**
+
+⬇️
+
+🗣️ **"It is 2 PM."**
+
+</div>
 
 You can also configure TimeChime to announce the time every hour within a specific period.
 
 For example:
 
-**2:00 PM → 10:00 PM**
-
-TimeChime will announce the time hourly during that period and remain silent afterward.
-
-You can also configure **Focus Time** to temporarily silence announcements during selected periods.
-
----
-
-## 🔊 Voice & Sounds
-
-TimeChime uses the Android Text-to-Speech system for spoken announcements.
-
-Available voices depend on the voices installed on the user's Android device.
-
-Users can preview and select available system voices.
-
-TimeChime also provides built-in chime tones and supports custom notification sounds.
-
----
-
-## 🎨 Themes
-
-TimeChime includes multiple visual themes designed to provide a comfortable and calming experience.
-
-The application supports light and dark appearances along with additional gradient-based themes.
-
----
-
-## 📱 App Preview
-
-### 🏠 Home Dashboard
-
-<p align="center">
-  <img src="screenshots/home.png" width="500" alt="TimeChime Home Dashboard">
-</p>
-
-The TimeChime dashboard provides a quick overview of your upcoming chime, active schedules, today's announcements, and easy access to your schedule and settings.
----
-
-## 🛠️ Requirements
-
-- Android Studio
-- Android SDK
-- Android device or emulator
-- Android 12 or newer recommended
-
----
-
-## 🚀 Version
-
-**TimeChime v1.0.0**
-
-This repository represents the initial stable release of TimeChime.
-
----
-
-## ❤️
-
-Crafted with ❤️ to make every moment count.
-
-Thank you for choosing TimeChime.
+```text
+02:00 PM ──────────────── 10:00 PM
+   🔔        🔔        🔔        🔔
