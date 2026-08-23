@@ -23,7 +23,7 @@ Whether you're working, studying, taking breaks, or maintaining a daily routine,
 - 📱 Responsive interface
 - 🔔 Customizable announcement sounds
 - ⚡ Precise scheduled announcements
-
+- 🌙 Clean and simple interface
 ---
 
 ## 🎯 Use Cases
@@ -90,7 +90,7 @@ The application supports light and dark appearances along with additional gradie
 ### 🏠 Home Dashboard
 
 <p align="center">
-  <img src="screenshots/home.png" width="300" alt="TimeChime Home Dashboard">
+  <img src="screenshots/home.png" width="500" alt="TimeChime Home Dashboard">
 </p>
 
 The TimeChime dashboard provides a quick overview of your upcoming chime, active schedules, today's announcements, and easy access to your schedule and settings.
