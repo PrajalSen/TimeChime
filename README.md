@@ -107,8 +107,54 @@ For example:
 
 ---
 
+## 📱 App Screenshots
+
+<div align="center">
+
+> **A closer look at TimeChime's clean and simple experience.**
+
+<!-- Screenshots will be added here soon -->
+
+| 🏠 Home | ⏰ Announcements | 🔊 Sounds |
+|:---:|:---:|:---:|
+| *Coming Soon* | *Coming Soon* | *Coming Soon* |
+
+| 🌙 Focus Time | 🎙️ Voice | ⚙️ Settings |
+|:---:|:---:|:---:|
+| *Coming Soon* | *Coming Soon* | *Coming Soon* |
+
+</div>
+
+---
+
+## 🚀 Coming Soon on Google Play
+
+<div align="center">
+
+### 📱 TimeChime is getting ready for launch!
+
+We're working toward bringing **TimeChime to the Google Play Store** so you can easily install it and keep every moment within reach.
+
+**Google Play release coming soon.** 🔔
+
+<br>
+
+🛠️ **Currently:** Finalizing the release  
+📱 **Platform:** Android  
+🚀 **Next:** Google Play Store
+
+</div>
+
+---
+
 ## 💙 Conclusion
 
 TimeChime is built to make time awareness simple, calm, and useful — helping you stay on track without turning every moment into an alarm.
 
-> **Stay aware. Stay focused. Make every moment count. ⏰**
+### 🚀 Coming Soon
+
+**TimeChime will soon be live on the Google Play Store.**
+
+Stay tuned for the launch and get ready to make every moment count. ⏰💙
+
+> **Stay aware. Stay focused. Make every moment count.**
