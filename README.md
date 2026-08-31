@@ -103,3 +103,12 @@ For example:
 ```text
 02:00 PM ──────────────── 10:00 PM
    🔔        🔔        🔔        🔔
+```
+
+---
+
+## 💙 Conclusion
+
+TimeChime is built to make time awareness simple, calm, and useful — helping you stay on track without turning every moment into an alarm.
+
+> **Stay aware. Stay focused. Make every moment count. ⏰**
