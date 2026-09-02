@@ -113,15 +113,13 @@ For example:
 
 > **A closer look at TimeChime's clean and simple experience.**
 
-<!-- Screenshots will be added here soon -->
+### 🏠 Home Dashboard
 
-| 🏠 Home | ⏰ Announcements | 🔊 Sounds |
-|:---:|:---:|:---:|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* |
+<img src="screenshots/home.png" width="320" alt="TimeChime Home Dashboard">
 
-| 🌙 Focus Time | 🎙️ Voice | ⚙️ Settings |
-|:---:|:---:|:---:|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* |
+### 🎙️ Voice & Speech Settings + 🔔 Chime & Quiet Hours
+
+<img src="screenshots/Settings.png" width="700" alt="TimeChime Voice and Speech Settings and Chime & Quiet Hours">
 
 </div>
 
